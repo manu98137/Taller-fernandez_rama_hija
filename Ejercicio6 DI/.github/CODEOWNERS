@@ -1,0 +1,5 @@
+# Archivos protegidos: solo el propietario puede aprobar cambios
+/src/com/virreymorcillo/taller/model/Vehiculo.java  @pefer06
+/src/com/virreymorcillo/taller/model/Reparable.java  @pefer06
+/.github/CODEOWNERS  @pefer06
+/.github/workflows/  @pefer06
